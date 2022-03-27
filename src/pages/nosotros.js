@@ -1,9 +1,9 @@
 import React from 'react'
 import Layout from '../components/Layout'
-
+import ContenidoNosotros from '../components/contenidoNosotros'
 const IndexPage = () => (
     <Layout>
-   <h1>Nosotros</h1>
+  <ContenidoNosotros />
 
     </Layout>
 
